@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="amongBF.png"><SubTexture name="amongBF idle dance0000" x="480" y="2034" width="485" height="456" frameX="-645" frameY="-331" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF idle dance0001" x="480" y="2034" width="485" height="456" frameX="-645" frameY="-331" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF idle dance0002" x="0" y="2034" width="480" height="465" frameX="-650" frameY="-322" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF idle dance0003" x="0" y="2034" width="480" height="465" frameX="-650" frameY="-322" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF idle dance0004" x="2501" y="0" width="471" height="475" frameX="-659" frameY="-312" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF idle dance0005" x="2501" y="0" width="471" height="475" frameX="-659" frameY="-312" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF idle dance0006" x="872" y="1543" width="456" height="489" frameX="-674" frameY="-299" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF idle dance0007" x="872" y="1543" width="456" height="489" frameX="-674" frameY="-299" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF idle dance0008" x="872" y="1543" width="456" height="489" frameX="-674" frameY="-299" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF idle dance0009" x="872" y="1543" width="456" height="489" frameX="-674" frameY="-299" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE LEFT0000" x="417" y="528" width="408" height="501" frameX="-711" frameY="-287" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE LEFT0001" x="417" y="528" width="408" height="501" frameX="-711" frameY="-287" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE LEFT0002" x="0" y="1044" width="424" height="499" frameX="-701" frameY="-289" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE LEFT0003" x="0" y="1044" width="424" height="499" frameX="-701" frameY="-289" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE LEFT0004" x="1631" y="499" width="431" height="494" frameX="-696" frameY="-294" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE LEFT0005" x="1631" y="499" width="431" height="494" frameX="-696" frameY="-294" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS LEFT0000" x="1223" y="0" width="408" height="501" frameX="-711" frameY="-287" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS LEFT0001" x="424" y="1044" width="424" height="499" frameX="-701" frameY="-289" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS LEFT0002" x="1631" y="993" width="431" height="494" frameX="-696" frameY="-294" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE UP0000" x="0" y="0" width="403" height="528" frameX="-727" frameY="-260" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE UP0001" x="0" y="0" width="403" height="528" frameX="-727" frameY="-260" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE UP0002" x="806" y="0" width="417" height="516" frameX="-713" frameY="-272" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE UP0003" x="806" y="0" width="417" height="516" frameX="-713" frameY="-272" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE UP0004" x="848" y="1044" width="432" height="499" frameX="-699" frameY="-289" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE UP0005" x="848" y="1044" width="432" height="499" frameX="-699" frameY="-289" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS UP0000" x="403" y="0" width="403" height="528" frameX="-727" frameY="-260" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS UP0001" x="0" y="528" width="417" height="516" frameX="-713" frameY="-272" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS UP0002" x="1631" y="0" width="432" height="499" frameX="-699" frameY="-289" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE RIGHT0000" x="0" y="1543" width="436" height="491" frameX="-742" frameY="-297" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE RIGHT0001" x="0" y="1543" width="436" height="491" frameX="-742" frameY="-297" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE RIGHT0002" x="1328" y="1543" width="437" height="486" frameX="-722" frameY="-302" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE RIGHT0003" x="1328" y="1543" width="437" height="486" frameX="-722" frameY="-302" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE RIGHT0004" x="2063" y="0" width="438" height="486" frameX="-712" frameY="-302" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE RIGHT0005" x="2063" y="0" width="438" height="486" frameX="-712" frameY="-302" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS RIGHT0000" x="436" y="1543" width="436" height="491" frameX="-742" frameY="-297" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS RIGHT0001" x="2063" y="486" width="437" height="486" frameX="-722" frameY="-302" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS RIGHT0002" x="2063" y="972" width="438" height="486" frameX="-712" frameY="-302" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE DOWN0000" x="1831" y="2034" width="427" height="435" frameX="-703" frameY="-354" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE DOWN0001" x="1831" y="2034" width="427" height="435" frameX="-703" frameY="-354" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE DOWN0002" x="965" y="2034" width="433" height="445" frameX="-697" frameY="-343" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE DOWN0003" x="965" y="2034" width="433" height="445" frameX="-697" frameY="-343" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE DOWN0004" x="2501" y="475" width="430" height="465" frameX="-700" frameY="-323" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE DOWN0005" x="2501" y="475" width="430" height="465" frameX="-700" frameY="-323" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS DOWN0000" x="2258" y="2034" width="427" height="435" frameX="-703" frameY="-354" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS DOWN0001" x="1398" y="2034" width="433" height="445" frameX="-697" frameY="-343" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF NOTE MISS DOWN0002" x="2501" y="940" width="430" height="465" frameX="-700" frameY="-323" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0000" x="2063" y="1458" width="358" height="486" frameX="-822" frameY="-302" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0001" x="2063" y="1458" width="358" height="486" frameX="-822" frameY="-302" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0002" x="2501" y="1405" width="399" height="448" frameX="-847" frameY="-340" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0003" x="2501" y="1405" width="399" height="448" frameX="-847" frameY="-340" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0004" x="539" y="2499" width="530" height="356" frameX="-736" frameY="-432" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0005" x="539" y="2499" width="530" height="356" frameX="-736" frameY="-432" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0006" x="0" y="2499" width="539" height="363" frameX="-749" frameY="-425" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0007" x="0" y="2499" width="539" height="363" frameX="-749" frameY="-425" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0008" x="1223" y="501" width="373" height="362" frameX="-747" frameY="-426" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0009" x="1223" y="501" width="373" height="362" frameX="-747" frameY="-426" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0010" x="825" y="528" width="318" height="274" frameX="-802" frameY="-514" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF dies0011" x="825" y="528" width="318" height="274" frameX="-802" frameY="-514" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF Dead Loop0000" x="825" y="528" width="318" height="274" frameX="-802" frameY="-514" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF Dead Loop0001" x="825" y="528" width="318" height="274" frameX="-802" frameY="-514" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF Dead Loop0002" x="825" y="528" width="318" height="274" frameX="-802" frameY="-514" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="amongBF Dead Loop0003" x="825" y="528" width="318" height="274" frameX="-802" frameY="-514" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cory down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cory idle"
+		},
+		{
+			"offsets": [
+				138,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cory left"
+		},
+		{
+			"offsets": [
+				0,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cory right"
+		},
+		{
+			"offsets": [
+				20,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cory up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/IMPcory",
+	"position": [
+		-240,
+		230
+	],
+	"healthicon": "pissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		52,
+		37
+	],
+	"camera_position": [
+		360,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
